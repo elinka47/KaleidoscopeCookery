@@ -1,5 +1,5 @@
 {
-  "item_group.kaleidoscope_cookery.cookery_main.name": "カレイドスコープ：キッチン",
+  "item_group.kaleidoscope_cookery.cookery_main.name": "カレイドスコープ：調理",
   "item_group.kaleidoscope_cookery.cookery_food.name": "カレイドスコープ：料理",
   "block.kaleidoscope_cookery.stove": "コンロ",
   "block.kaleidoscope_cookery.pot": "中華鍋",
@@ -138,7 +138,7 @@
   "effect.kaleidoscope_cookery.mustard": "からし",
   "effect.kaleidoscope_cookery.preservation": "鮮度保持",
   "effect.kaleidoscope_cookery.hinder": "妨害",
-  "effect.kaleidoscope_cookery.projectile_dodge": "飛び道具回避",
+  "effect.kaleidoscope_cookery.projectile_dodge": "投擲回避",
   "effect.kaleidoscope_cookery.instant_smelting": "即時精錬",
   "effect.kaleidoscope_cookery.vitality": "生命力",
   "enchantment.kaleidoscope_cookery.quick_knife": "高速包丁",
